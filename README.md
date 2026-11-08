@@ -25,6 +25,23 @@ O app atua como uma **ferramenta digital informativa e orientativa**, aproximand
 
 ---
 
+## 📸 Evidências / Scrrenchots da aplicação em uso:
+
+<img width="169" height="375" alt="Screenshot_1794143334" src="https://github.com/user-attachments/assets/1843c1dd-f120-45cb-8d64-f0d48840bb99" />
+<img width="169" height="375" alt="Screenshot_1794143387" src="https://github.com/user-attachments/assets/9ce5dde2-f43c-4829-b693-46dbdd3bd658" />
+<img width="169" height="375" alt="Screenshot_1794143329" src="https://github.com/user-attachments/assets/cf82bead-a001-465f-ba21-99fb065c0e83" />
+<img width="169" height="375" alt="Screenshot_1794143331" src="https://github.com/user-attachments/assets/c783712c-4ed0-4347-aec9-0025203b55e4" />
+<img width="169" height="375" alt="Screenshot_1794143367" src="https://github.com/user-attachments/assets/cb6d68d8-8f4c-41d4-8048-d1c0b33efc2e" />
+<img width="169" height="375" alt="Screenshot_1794143380" src="https://github.com/user-attachments/assets/40ef6594-4a3c-4f8e-bf79-b2eeb35483a4" />
+<img width="169" height="375" alt="Screenshot_1794143353" src="https://github.com/user-attachments/assets/e8a5ee11-b634-42ae-be44-b544221c7a1e" />
+<img width="169" height="375" alt="Screenshot_1794143362" src="https://github.com/user-attachments/assets/0b55eea4-cf23-42cd-b65c-22452c17a7cb" />
+<img width="169" height="375" alt="Screenshot_1794143336" src="https://github.com/user-attachments/assets/be8b612c-5c06-43d1-8f50-c4d62d34663c" />
+<img width="169" height="375" alt="Screenshot_1794143346" src="https://github.com/user-attachments/assets/ecee5f52-66bc-4502-bd0b-38e0cd3f0927" />
+<img width="169" height="375" alt="Screenshot_1794143343" src="https://github.com/user-attachments/assets/7b627fbe-fd7a-4c74-92ba-c50132174782" />
+<img width="169" height="375" alt="Screenshot_1794143339" src="https://github.com/user-attachments/assets/437cceac-def2-4718-8e0e-4d42db123e44" />
+
+---
+
 ## ✨ Funcionalidades
 
 O app é composto por **quatro módulos principais**:
